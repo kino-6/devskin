@@ -1,0 +1,10 @@
+description: "Subtle Super Famicom-inspired color tuning with modern readability"
+top_level:
+  add_newline: true
+module_styles:
+  directory: "bold #7aa2f7"
+  git_branch: "bold #9ece6a"
+  git_status: "#f7768e"
+  cmd_duration: "#e0af68"
+  python: "#7dcfff"
+python_venv_prompt: "via [${symbol}${pyenv_prefix}(${version})(\\($virtualenv\\) )]($style)"
